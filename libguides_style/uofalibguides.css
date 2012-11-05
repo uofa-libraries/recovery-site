@@ -1,0 +1,227 @@
+body{
+	background-color:#f2f6ee;
+	background-image:url("http://www.library.ualberta.ca/libguides_style/images/back.jpg");
+	background-repeat:repeat-x;
+	font-size:100%;
+	font-family:Verdana,"Century Gothic", "Apple Gothic", sans-serif;
+	line-height:1.2em;
+}
+a{
+	color:#0d68bd;
+}
+img{
+	border:none;
+}
+#wrapper{
+	background-image:none;
+width:985px;
+			background-color:#f2f6ee;
+}
+#content{
+	width:100%;
+	background-color:#f2f6ee;
+	padding-top:20px;
+}
+center, #customFooter{
+	background-color:#f2f6ee;
+}
+#content a:hover{
+		color:#005599;
+}
+#contentcenter{
+	background:#fbfbec  !important;
+
+	line-height:1.5em;
+}
+#contentcenter .outerbox{
+	background:#fbfbec  !important;
+}
+#contentcenter .innerbox{
+	background-color:transparent  !important;
+}
+#dp{
+	background-color:#042704;
+	margin:auto;
+	width:99% !important;
+}
+.topnav{
+	padding:0px 20px 10px 0px;
+}
+h1{
+	padding:5px 20px 16px 15px;
+	color:#042704;
+	font-size:1.1em;
+	font-weight:bold;
+	font-family:Georgia, Times;
+	text-transform:uppercase;
+	letter-spacing:0.1em;
+}
+
+.guidetags, .icomments, .iprint, #profile_links, .tabwin, .innerbox .font11{
+	display:none   !important;
+}
+.topnav .font11 a{
+	display:block;
+}
+.breadcrumbs{
+	font-size:0.6em !important;
+}
+.breadcrumbs span{
+	float:left;
+}
+.headerbox h2{
+	font-family:Georgia, Times, Serif;
+	font-size:0.9em;
+	border-bottom:1px dotted #042704;
+	color:#042704  !important;
+}
+.font11{
+	font-size:1em;
+}
+.breadcrumbsr{
+	font-size:0.75em;
+	z-index:100;
+}
+.guidedesc, .guideurl, .printguideurl, .rssupdatelink, .guideshare{
+	display:none;
+}
+.lastupdate{
+	border:none;
+	margin-left:2em;
+	font-style:italic;
+}
+#tabsI{
+	border-bottom:7px solid #dce9da;
+	font-size:1em;
+	padding-left:10px;
+
+}
+#tabsI a span{
+	background-image:url("http://www.library.ualberta.ca/libguides_style/images/uofa_tab_right.jpg")  !important;
+	color:#fff  !important;
+	margin-right:0.2em;
+	font-size:0.7em;
+}
+#tabsI li#current a span{
+	color:#005521  !important;
+}
+#tabsI a:active span{
+	color:#005521 !important;
+}
+#tabsI a:hover span{
+	color:#005521  !important;
+}
+#tabsI a{
+	background-image:url("http://www.library.ualberta.ca/libguides_style/images/uofa_tab_left.jpg")  !important;
+}
+.stitle{
+	background:none;
+	background-color:transparent;
+	margin-bottom:0;
+	position:absolute;
+	top:85px;
+	right:12%;
+	color:#fff;
+	font-size:0.1em;
+}
+.outerbox {
+	background-color:#FFF;
+}
+#footer{
+	padding:1em 0;
+	background-color:#f2f6ee;
+	border:none;
+}
+.innerbox p{
+	line-height:1.6em;
+	font-size:1.1em;
+}
+#header{
+	background-image:url("http://www.library.ualberta.ca/libguides_style/images/header.jpg") !important;
+	background-repeat:no-repeat;
+	height:124px;
+}
+#header img{
+	padding:0;
+}
+ul.ualinks{
+	float:right;
+	list-style:none;
+	margin-top:-5.5em;
+}
+ul.ualinks li{
+	float:left;
+}
+ul.ualinks li a{
+	padding:1.5em 1.2em 0 1.2em ;
+	display:block;
+	color:#fefefe;
+	font-size:0.65em;
+	text-transform:uppercase;
+	letter-spacing:0.1em;
+	font-weight:bold;
+	line-height:1.3em;
+	text-shadow: 1px 0 2px #003300;
+}
+ul.ualinks li a:hover{
+	text-decoration:none;
+	color:#fbe8a6;
+}
+ul.ualinks li a.book{
+	width:4em;
+	margin-top:-1.25em;
+}
+ul.ualinks li a.french{
+	margin-top:-1.25em;
+}
+.searchField{
+	width:40px;
+}
+div.ask {
+	float:left;
+	width:7em;
+	height:4em;
+	padding:1.8em 0 0 1.5em;
+	font-size:0.9em;
+}
+div.ask ul{
+	list-style:none;
+	margin:0;
+	padding:0 0 0 0.8em;
+}
+div.ask li{
+	float:left;
+}
+div.ask a {
+text-transform:uppercase;
+letter-spacing:0.1em;
+text-decoration:none;
+font-weight:700;
+line-height:1.1em;
+font-style:italic;
+}
+div.ask li a {
+text-transform:lowercase;
+font-size:0.65em;
+text-shadow:none;
+line-height:1em;
+padding-right:1.2em;
+letter-spacing:none;
+}
+input.searchField{
+	width:10em;
+	border:solid thin #999;
+}
+a.lib_home{
+	display:block;
+	background-color:transparent;
+	width:21em;
+	height:7em;
+	margin-left:5.4em;
+	float:left;
+}
+p.check{
+
+	text-align:center;
+	font-size:12px;
+}
